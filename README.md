@@ -1,6 +1,6 @@
 Pinteresting
 ======
-**Pinteresting** is a Pinterest clone built with Ruby on Rails. You can check it out [here](https://pinteresting-ror.herokuapp.com/).
+**Pinteresting** is a Pinterest clone built with Ruby on Rails. You can check it out [here](https://pinteresting-ror.herokuapp.com/)!
 
 ## Installation
 ```console
